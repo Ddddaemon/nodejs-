@@ -1,7 +1,6 @@
 nodejs开发微信公众号笔记
 =======
 #配置、接入微信公众号 
-
     测试公众号入口：http://mp.weixin.qq.com/debug/cgi-bin/sandboxinfo?action=showinfo&t=sandbox/index
     入口文件模块：koa框架 path g中间键 util中间键
     服务器代理
