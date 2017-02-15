@@ -6,3 +6,6 @@ nodejs开发微信公众号笔记<br/>
 Generator中间键模块：sh1加密 raw-body<br/> 
 util中间键模块：bluebird fs<br/>
 服务器代理:ngrok/花生壳/localtunnel/utralhook <br/>
+
+###票据access_token<br/>
+规则:7200s失效
