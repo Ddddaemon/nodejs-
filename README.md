@@ -8,4 +8,4 @@ util中间键模块：bluebird fs<br/>
 服务器代理:ngrok/花生壳/localtunnel/utralhook <br/>
 
 ###票据access_token<br/>
-规则:7200s失效
+规则:7200s失效 需每隔2小时启动刷新一次票据 为方便频繁使用,需要把票据存储在一个唯一的地方
